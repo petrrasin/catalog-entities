@@ -5,10 +5,10 @@ metadata:
 spec:
   type: url
   targets:
-  - https://gitlab.notino.com/platform/catalog-entities/-/blob/master/cartographer.yaml
-  - https://gitlab.notino.com/platform/catalog-entities/-/blob/master/domains/human-resources.yaml
-  - https://gitlab.notino.com/platform/catalog-entities/-/blob/master/systems/artemis.yaml
-  - https://gitlab.notino.com/platform/catalog-entities/-/blob/master/groups/it.yaml
-  - https://gitlab.notino.com/platform/catalog-entities/-/blob/master/groups/internal-support.yaml
-  - https://gitlab.notino.com/platform/catalog-entities/-/blob/master/groups/hr.yaml
-  - https://gitlab.notino.com/platform/catalog-entities/-/blob/master/groups/platform-group.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/cartographer.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/domains/human-resources.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/systems/artemis.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/groups/it.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/groups/internal-support.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/groups/hr.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/groups/platform-group.yaml
