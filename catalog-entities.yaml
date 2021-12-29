@@ -7,3 +7,5 @@ spec:
   targets:
   - https://github.com/petrrasin/catalog-entities/blob/main/cartographer.yaml
   - https://github.com/petrrasin/catalog-entities/blob/main/systems/artemis.yaml
+  - https://github.com/petrrasin/catalog-entities/blob/main/domains/human-resources.yaml
+  
