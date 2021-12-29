@@ -6,9 +6,3 @@ spec:
   type: url
   targets:
   - https://github.com/petrrasin/catalog-entities/blob/main/cartographer.yaml
-  - https://github.com/petrrasin/catalog-entities/blob/main/domains/human-resources.yaml
-  - https://github.com/petrrasin/catalog-entities/blob/main/systems/artemis.yaml
-  - https://github.com/petrrasin/catalog-entities/blob/main/groups/it.yaml
-  - https://github.com/petrrasin/catalog-entities/blob/main/groups/internal-support.yaml
-  - https://github.com/petrrasin/catalog-entities/blob/main/groups/hr.yaml
-  - https://github.com/petrrasin/catalog-entities/blob/main/groups/platform-group.yaml
