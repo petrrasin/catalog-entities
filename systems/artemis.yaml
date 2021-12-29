@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: artemis
+  description: HR tool to manage organizational data and other modules in the future
+spec:
+  owner: hr
+  domain: human-resources

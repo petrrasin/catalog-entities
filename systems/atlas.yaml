@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: atlas
+  description: DevOps governance framework
+spec:
+  owner: user:premysl.krajcovic
+  domain: it

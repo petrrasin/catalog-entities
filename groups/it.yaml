@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: it
+  description: Notino IT
+spec:
+  type: business-unit
+  profile:
+    displayName: IT
+  children: [internal-support]

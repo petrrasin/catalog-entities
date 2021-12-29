@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: human-resources
+  description: Everything about human resources
+spec:
+  owner: hr

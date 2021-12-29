@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: internal-support
+  description: Internal Support IT group
+spec:
+  type: it-group
+  profile:
+    displayName: Internal Support
+  parent: it
+  children: [hr]
